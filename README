@@ -1,0 +1,5 @@
+# Anotaciones
+
+1. Los archivos de testing se pueden ubicar en cualquier parte del proyecto, sin embargo por organización lo mejor es crear una carpeta independiente **que replique la estructura del src**
+
+  - Esta carpeta puede ser nombrada "tests" o "\_\_tests\_\_"
